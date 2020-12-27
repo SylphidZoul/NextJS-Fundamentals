@@ -4,10 +4,6 @@ import '../global.css'
 
 import CartProvider from '@store/Cart'
 
-export const reportWebVitals = (metric) => {
-  console.log(metric)
-}
-
 const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <CartProvider>
