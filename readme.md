@@ -14,23 +14,3 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
 1. Configura path aliases
 1. Crea páginas y componentes UI para el sitio.
 1. Crea Store simple usando Context
-
-### 🤖 Guía Rápida
-
-1.  **Empieza a desarrollar.**
-
-    Instala dependencias
-
-    ```sh
-    yarn
-    ```
-
-    Inicia el proyecto
-
-    ```sh
-    yarn dev
-    ```
-
-    El sitio estará disponible en http://localhost:3000.
-
-    Happy hacking!
